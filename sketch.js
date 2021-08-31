@@ -15,7 +15,7 @@ var playerArcherLife = 3;
 var computerArcherLife = 3;
 function preload() {
   //Load Image of background
-backgroundImg = loadImage("./assets/background.gif");
+backgroundImg = loadImage("background.gif");
 
 
 }
